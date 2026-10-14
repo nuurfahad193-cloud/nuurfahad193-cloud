@@ -1,157 +1,146 @@
 
 <!--
-  MUHAMMAD | CINEMATIC DEVELOPER PROFILE
-  Replace the banner URL with your own image when available.
+  MUHAMMAD | CINEMATIC GITHUB PROFILE
+  Replace the image URLs with your own images when ready.
 -->
 
-<p align="center">
+<div align="center">
+
   <img
-    src="https://placehold.co/1600x500/080B18/8B5CF6?text=MUHAMMAD+%7C+BUILDING+THE+FUTURE"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,50:312E81,100:8B5CF6&height=220&section=header&text=MUHAMMAD&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20DEVELOPER%20%7C%20FUTURE%20TECH%20ENTREPRENEUR&descSize=13&descAlignY=58"
     width="100%"
-    alt="Replace with a custom cinematic space technology banner"
+    alt="Muhammad technology banner"
   />
-</p>
 
-<h1 align="center">MUHAMMAD</h1>
+  <img
+    src="https://placehold.co/180x180/111827/A78BFA?text=MUHAMMAD"
+    width="150"
+    alt="Muhammad profile avatar"
+  />
 
-<h3 align="center">
-  ASPIRING DEVELOPER · FUTURE TECH ENTREPRENEUR
-</h3>
+  <h2>Think Beyond Limits. Build What Comes Next.</h2>
 
-<p align="center">
-  <i>Think Beyond Limits. Build What Comes Next.</i>
-</p>
+  <p>
+    Building my skills today to create technology that can help people worldwide.
+  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/AI-Exploring-8B5CF6?style=for-the-badge" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/App_Development-Learning-06B6D4?style=for-the-badge" alt="App Development"/>
-  <img src="https://img.shields.io/badge/Game_Development-Future_Goal-EC4899?style=for-the-badge" alt="Game Development"/>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Learning+Python+%F0%9F%90%8D;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Planning+Useful+Mobile+Apps+%F0%9F%93%B1;Building+My+Future+in+Technology+%F0%9F%9A%80" alt="Animated introduction" />
+
+  <p>
+    <a href="https://github.com/nuurfahad193-cloud">
+      <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Learning-7C3AED?style=for-the-badge" alt="Learning status" />
+    <img src="https://img.shields.io/badge/Dream-Global_Technology-2563EB?style=for-the-badge" alt="Global technology dream" />
+  </p>
+
+</div>
 
 ---
 
-## 🌌 ABOUT ME
+## 👨‍💻 About Me
 
-Welcome to my digital universe.
+Hello! I'm **Muhammad**, an aspiring developer and future technology entrepreneur.
 
-I'm Muhammad, an aspiring software developer with a vision to create useful technology, build innovative products, and eventually establish my own technology company, InshaAllah.
-
-I'm at the beginning of my journey, learning the fundamentals and working toward turning ideas into real projects.
+I'm at the beginning of my programming journey, learning how to turn ideas into useful digital products.
 
 - 🐍 Learning Python and programming fundamentals.
-- 🤖 Exploring Artificial Intelligence and practical AI applications.
-- 📱 Interested in building mobile applications.
-- 🎮 Interested in game development and interactive experiences.
-- 🧠 Developing my problem-solving and software engineering skills.
-- 🌍 Dreaming of building products that can help people worldwide.
-
-> Every great company begins with a vision. Every great developer begins by learning.
+- 🤖 Exploring Artificial Intelligence.
+- 📱 Planning useful mobile applications.
+- 💡 Interested in solving real-world problems through technology.
+- 🌍 Dreaming of building a global technology company, InshaAllah.
+- 📚 Improving my skills through continuous learning and practical projects.
 
 ---
 
-## 🧬 MY TECHNOLOGY UNIVERSE
+## ⚡ My Tech Journey
 
-### 🐍 Python
-My starting point for learning programming, logic, automation, and building practical software.
+<div align="center">
 
-### 🤖 Artificial Intelligence
-Exploring how AI can solve problems and make applications more useful.
+| Area | My Focus |
+|---|---|
+| 💻 Programming | Python |
+| 🤖 Artificial Intelligence | Learning AI concepts |
+| 📱 App Development | Exploring Flutter and mobile development |
+| 🎨 UI/UX Design | Exploring modern application interfaces |
+| 🚀 Entrepreneurship | Planning technology products and a future company |
 
-### 📱 App Development
-Learning how to turn ideas into accessible, user-friendly digital products.
+</div>
 
-### 🎮 Game Development
-A future learning goal: exploring how to create interactive worlds, gameplay systems, and original gaming experiences.
+## 🧠 Technologies I'm Exploring
 
----
+<div align="center">
 
-## 🚀 PROJECT SPOTLIGHT
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,flutter&theme=dark" alt="Technologies to explore" />
 
-### 01 — FitLife AI
+</div>
 
-**Category:** Fitness & Wellness  
-**Status:** Concept and planning
-
-A planned application concept exploring the use of technology and AI in fitness and wellness.
-
-*This project is currently a concept, not a completed or published application.*
+*These icons represent technologies I am interested in learning, not necessarily skills I have already mastered.*
 
 ---
 
-### 02 — Future Game Projects
+## 🚀 Projects & Ideas
 
-**Category:** Game Development  
-**Status:** Future goal
+### 📱 FitLife AI
+An application concept focused on fitness, nutrition, progress tracking, and AI-powered guidance.
 
-I want to learn how games are designed and developed, starting with programming fundamentals and gradually building original projects.
+**Status:** Planning and development learning.
 
-*No completed game is being claimed at this stage.*
+### 📷 PIXORA
+A professional camera application concept with a modern interface and manual camera controls.
 
----
+**Status:** Idea and design planning.
 
-## 🏢 THE LONG-TERM VISION
+### 🌍 Future Technology Projects
+My long-term goal is to build applications and digital tools that solve meaningful problems for people around the world.
 
-My long-term ambition is to build a technology company that creates useful digital products.
-
-The journey I want to pursue:
-
-**LEARN → BUILD → LAUNCH → IMPROVE → GROW**
-
-- Develop strong programming foundations.
-- Build and publish useful applications.
-- Explore AI-powered software.
-- Learn game development and interactive technology.
-- Understand product design, teamwork, and entrepreneurship.
-- 
----
-
-## 🎯 MISSION CONTROL
-
-- [ ] Improve Python and problem-solving skills.
-- [ ] Build my first practical Python projects.
-- [ ] Learn Git and GitHub workflows.
-- [ ] Explore AI application development.
-- [ ] Start building and publishing applications.
-- [ ] Learn the fundamentals of game development.
-- [ ] Create a portfolio of real projects.
+**Status:** Future vision.
 
 ---
 
-## 💡 DEVELOPER NOTES
+## 📊 GitHub Analytics
 
-> **Tip 01 — Start Small**
->
-> Build a simple working project before adding complex features.
+<div align="center">
 
-> **Tip 02 — Learn by Building**
->
-> Use what you learn in practical projects instead of only watching tutorials.
+<img src="https://github-readme-stats.vercel.app/api?username=nuurfahad193-cloud&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="95%" alt="GitHub statistics" />
 
-> **Tip 03 — Keep Improving**
->
-> Read your code again, fix mistakes, and learn why a solution works.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuurfahad193-cloud&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C9D1D9" width="70%" alt="Most used languages" />
 
-> **Tip 04 — Think Like a Builder**
->
-> Focus on solving real problems, not just collecting technologies.
+<img src="https://streak-stats.demolab.com?user=nuurfahad193-cloud&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="95%" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
-## 🌠 MY PRINCIPLE
+## 🎯 My Goals
 
-<p align="center">
-  <b>VISION WITHOUT ACTION IS ONLY A DREAM.</b>
-  <br/><br/>
-  LEARN WITH PURPOSE.<br/>
-  BUILD WITH PATIENCE.<br/>
-  CREATE WITH VISION.
-</p>
+- [ ] Build a strong foundation in Python.
+- [ ] Develop practical programming projects.
+- [ ] Learn to build mobile applications.
+- [ ] Explore AI-powered products.
+- [ ] Publish useful projects on GitHub.
+- [ ] Work toward launching a global technology company, InshaAllah.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Journey-Just_Beginning-8B5CF6?style=for-the-badge" alt="Journey just beginning"/>
-</p>
+---
 
-<p align="center">
-  <i>One line of code today. A bigger vision tomorrow. InshaAllah. 🚀</i>
-</p>
+## 🌌 My Philosophy
+
+<div align="center">
+
+### DREAM BIG. LEARN DAILY. BUILD CONSISTENTLY.
+
+*Every expert was once a beginner.*
+
+**The journey starts with one line of code.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:312E81,100:080B18&height=120&section=footer" width="100%" alt="Purple technology footer" />
+
+**MUHAMMAD · ASPIRING DEVELOPER · FUTURE TECH ENTREPRENEUR**
+
+</div>
