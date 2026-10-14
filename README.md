@@ -86,8 +86,6 @@ An application concept focused on fitness, nutrition, progress tracking, and AI-
 
 **Status:** Planning and development learning.
 
-### 📷 PIXORA
-A professional camera application concept with a modern interface and manual camera controls.
 
 **Status:** Idea and design planning.
 
